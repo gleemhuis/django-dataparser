@@ -1,3 +1,3 @@
 # django-dataparser
 
-Validation of pandas.DataFrame that is being parsed to a Django model
+Validation of input data in pandas.DataFrame before saving into a Django model
